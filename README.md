@@ -1,7 +1,7 @@
 # \#1 - Real State Website built using CSS Grid layout
 Design completely built with Tte new technology!.
 
-![octobiwan](https://user-images.githubusercontent.com/25851867/43810391-00afa2e2-9a7d-11e8-94b9-fafbe62d4ff7.jpg)
+<img width="1424" alt="screenshot 2018-08-06 17 09 57" src="https://user-images.githubusercontent.com/25851867/43743513-c96bb636-999b-11e8-8ad4-ad24c1bbeccc.png">
 
 ## Project Requirements
 
@@ -10,4 +10,4 @@ Design completely built with Tte new technology!.
 
 ## View Project
 
-[Live Demo]() of this project.
+[Live Demo](https://esteban-towerz.github.io/) of this project.
